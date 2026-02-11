@@ -1,8 +1,3 @@
-//package com.apps.quantitymeasurment;
-//
-//public enum LengthUnit {
-//}
-
 package com.apps.quantitymeasurment;
 
 public enum LengthUnit {
